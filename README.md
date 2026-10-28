@@ -18,6 +18,3 @@ Dari folder proyek, jalankan `python main.py`. Tidak perlu package eksternal.
 - Inheritance: kedua processor mewarisi `BaseProcessor`.
 - Polymorphism: pemanggilan metode sama pada objek processor yang berbeda.
 - Override: masing-masing processor menyediakan implementasi `process_data()` sendiri.
-- Encapsulation: data internal `BaseProcessor` memakai atribut privat dan properti.
-
-Catatan: soal tidak menetapkan formula bonus atau ambang suhu baru, sehingga program tidak mengarang formula bonus/gaji.
